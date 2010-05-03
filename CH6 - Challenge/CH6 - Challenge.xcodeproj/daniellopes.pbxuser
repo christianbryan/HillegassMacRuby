@@ -1,0 +1,164 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 710}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 96}";
+		};
+	};
+	10671A3D117103AF0096CDC9 /* CH6 - Challenge */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "CH6 - Challenge";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	10671A42117103BB0096CDC9 /* AppController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 710}}";
+			sepNavSelRange = "{308, 0}";
+			sepNavVisRange = "{0, 308}";
+		};
+	};
+	10671A44117103BB0096CDC9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	10671A45117103BB0096CDC9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	10671A57117105170096CDC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 96;
+		vrLoc = 0;
+	};
+	10671A58117105170096CDC9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/daniellopes/Desktop/Cocoa Programming/CH6 - Challenge/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	10671A59117105170096CDC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10671A42117103BB0096CDC9 /* AppController.rb */;
+		name = "AppController.rb: 6";
+		rLen = 0;
+		rLoc = 130;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	10671A5A117105170096CDC9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 10671A42117103BB0096CDC9 /* AppController.rb */;
+		name = "AppController.rb: 11";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 308;
+		vrLoc = 0;
+	};
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 10671A3D117103AF0096CDC9 /* CH6 - Challenge */;
+		activeTarget = 8D1107260486CEB800E47090 /* CH6 - Challenge */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CH6 - Challenge */,
+		);
+		codeSenseManager = 10671A45117103BB0096CDC9 /* Code sense */;
+		executables = (
+			10671A3D117103AF0096CDC9 /* CH6 - Challenge */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1233,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292619183;
+			PBXWorkspaceStateSaveDate = 292619183;
+		};
+		perUserProjectItems = {
+			10671A57117105170096CDC9 /* PBXTextBookmark */ = 10671A57117105170096CDC9 /* PBXTextBookmark */;
+			10671A58117105170096CDC9 /* PlistBookmark */ = 10671A58117105170096CDC9 /* PlistBookmark */;
+			10671A59117105170096CDC9 /* PBXTextBookmark */ = 10671A59117105170096CDC9 /* PBXTextBookmark */;
+			10671A5A117105170096CDC9 /* PBXTextBookmark */ = 10671A5A117105170096CDC9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 10671A44117103BB0096CDC9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D1A51A110A4FF5D0046A98A /* Compile */ = {
+		activeExec = 0;
+	};
+	4D1A51A510A4FF640046A98A /* Embed */ = {
+		activeExec = 0;
+	};
+	8D1107260486CEB800E47090 /* CH6 - Challenge */ = {
+		activeExec = 0;
+		executables = (
+			10671A3D117103AF0096CDC9 /* CH6 - Challenge */,
+		);
+	};
+}
