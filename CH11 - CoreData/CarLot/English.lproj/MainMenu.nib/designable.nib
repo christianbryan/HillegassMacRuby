@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="503"/>
 			<integer value="29"/>
-			<integer value="372"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1157,7 +1157,7 @@
 												<int key="NSCellFlags">270663168</int>
 												<int key="NSCellFlags2">0</int>
 												<int key="NSAlign">0</int>
-												<int key="NSScale">0</int>
+												<int key="NSScale">1</int>
 												<int key="NSStyle">2</int>
 												<bool key="NSAnimates">NO</bool>
 											</object>
@@ -1183,7 +1183,7 @@
 										<object class="NSDatePicker" id="327369431">
 											<reference key="NSNextResponder" ref="965655705"/>
 											<int key="NSvFlags">268</int>
-											<string key="NSFrame">{{251, 14}, {104, 27}}</string>
+											<string key="NSFrame">{{274, 14}, {81, 27}}</string>
 											<reference key="NSSuperview" ref="965655705"/>
 											<bool key="NSEnabled">YES</bool>
 											<object class="NSDatePickerCell" key="NSCell" id="774419275">
@@ -1218,7 +1218,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 												<reference key="NSSupport" ref="62163063"/>
 												<reference key="NSControlView" ref="327369431"/>
 												<double key="NSTimeInterval">0.0</double>
-												<int key="NSDatePickerElements">224</int>
+												<int key="NSDatePickerElements">192</int>
 												<reference key="NSBackgroundColor" ref="700709362"/>
 												<reference key="NSTextColor" ref="262990785"/>
 											</object>
@@ -2769,6 +2769,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 					<string>371.NSWindowTemplate.visibleAtLaunch</string>
 					<string>371.editorWindowContentRectSynchronizationRect</string>
 					<string>372.IBPluginDependency</string>
+					<string>424.CustomClassName</string>
 					<string>424.IBPluginDependency</string>
 					<string>474.IBPluginDependency</string>
 					<string>475.IBPluginDependency</string>
@@ -2976,6 +2977,7 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 					<integer value="1"/>
 					<string>{{33, 99}, {480, 360}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+					<string>CarArrayController</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -3084,6 +3086,14 @@ AQABAAEAAQAB//+dkAEA//+PgAAE//+dkAEI//+dkAEMUERUAFBTVABQV1QAUFBUAAAAAAEAAAABA</b
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBProjectSource</string>
 						<string key="minorKey">AppDelegate.rb</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">CarArrayController</string>
+					<string key="superclassName">NSArrayController</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">CarArrayController.rb</string>
 					</object>
 				</object>
 			</object>

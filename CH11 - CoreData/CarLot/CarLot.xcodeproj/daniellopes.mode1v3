@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -323,10 +325,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>10B1AAEF118E76F8000A91B0</string>
+										<string>103A77001190EFC4008DC99A</string>
 										<key>history</key>
 										<array>
-											<string>10B1AAE5118E762F000A91B0</string>
+											<string>10B1AAEF118E76F8000A91B0</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -384,9 +386,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>10B1AAE7118E762F000A91B0</string>
+				<string>103A77011190EFC4008DC99A</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>10B1AAE8118E762F000A91B0</string>
+				<string>103A77021190EFC4008DC99A</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -524,12 +526,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>10B1AAF6118E76F8000A91B0</string>
-		<string>10B1AAF7118E76F8000A91B0</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>10DE6119118E656F00245B49</string>
-		<string>/Users/daniellopes/Desktop/Cocoa/CH11 - Core Data/CarLot/CarLot.xcodeproj</string>
-		<string>1C78EAAD065D492600B07095</string>
+		<string>/Users/daniellopes/Works/pessoais/macruby/samples/HillegassMacRuby/CH11 - Core Data/CarLot/CarLot.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1440 819 0 0 1440 878 </string>
@@ -609,7 +607,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>10DE6119118E656F00245B49</string>
-				<string>10B1AAE9118E762F000A91B0</string>
+				<string>103A77031190EFC4008DC99A</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

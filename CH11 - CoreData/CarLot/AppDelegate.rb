@@ -2,9 +2,9 @@
 # AppDelegate.rb
 # CarLot
 #
-# Created by daniellopes on 02/05/10.
-# Copyright area criacoes 2010. All rights reserved.
-#
+# Created by daniellopes on 04/05/10.
+#  Adapted from 'Cocoa Programming for Mac OS X' - 3rd Edition by Aaron Hillegass (http://www.bignerdranch.com/)
+
 
 class AppDelegate
   attr_writer :window
